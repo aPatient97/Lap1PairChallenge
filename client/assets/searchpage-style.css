@@ -61,7 +61,7 @@ ul {
     margin-top: 4em;
 }
 
-.serp li {
+#serp li {
     margin: 1em;
     cursor: pointer;
     list-style-type: none;
