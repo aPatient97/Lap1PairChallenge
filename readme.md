@@ -6,8 +6,8 @@
 
 * Fork and Clone the Repo
 * cd into the server folder
-* Run npm install -D cors express nodemon 
-* run npm run dev 
+* Run `npm install -D cors express nodemon` in the terminal  
+* run `npm run dev` in the terminal 
 * Open the homepage.html on live server
 
 ### Usage
