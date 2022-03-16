@@ -5,18 +5,18 @@
 ### Installation
 
 * Fork and Clone the Repo
-* run npm install -D cors express nodemon 
+* cd into the server folder
+* Run npm install -D cors express nodemon 
+* run npm run dev 
+* Open the homepage.html on live server
 
 ### Usage
+Our search engine only recognises 4 key words for the moment which are: 
+* pizza
+* pies
+* bumbershoot
+* widdershins
 
-## Changelog
-
-### index.html
-
-### style.css
-
-## Wins & Challenges
-
-### Wins
-
-### Challenges
+After typing these into the text area, click either:
+* google search button to get 10 results; or
+* the I'm Feeling Lucky button to get the most popular search result
