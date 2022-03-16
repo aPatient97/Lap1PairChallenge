@@ -18,5 +18,5 @@ Our search engine only recognises 4 key words for the moment which are:
 * widdershins
 
 After typing these into the text area, click either:
-* google search button to get 10 results; or
-* the I'm Feeling Lucky button to get the most popular search result
+* the 'Google search' button to get 10 results; or
+* the 'I'm Feeling Lucky' button to get the most popular search result
