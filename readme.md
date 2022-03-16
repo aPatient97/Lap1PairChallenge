@@ -4,7 +4,8 @@
 
 ### Installation
 
-* Clone or download the repo.
+* Fork and Clone the Repo
+* run npm install -D cors express nodemon 
 
 ### Usage
 
