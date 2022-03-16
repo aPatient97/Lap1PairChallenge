@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Google</title>
     <link rel="stylesheet" href="./assets/homepage-style.css">
+    <script defer src="./assets/script.js"></script>
 </head>
 <body>
 
@@ -26,12 +27,13 @@
     <section>
         <img src="./assets/images/googlelogo_color_272x92dp.png" alt="Google Logo">
         <form action="" class="searchfunction">
-            <input type="text">
+            <input type="text" id= "searchBar">
             <div>
-                <input type="button" value="Google Search" id="">
-                <input type="button" value="I'm Feeling Lucky" id="">
+                <a href="searchpage.html"><input type="button" value="Google Search" id="button1" onclick="clean()"></a>
+                <a href=""><input type="button" value="I'm Feeling Lucky" id="" onclick="lucky()"></a>
             </div>
         </form>
+       
     </section>
 
 <!-- Footer -->
